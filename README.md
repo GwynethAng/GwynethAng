@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GwynethAng
-- 🌱 I’m currently learning advanced software development
+- 🌱 I’m currently studying Computer Science
 - 📫 How to reach me - email: gwynethprincipe@gmail.com
 
 <!---
